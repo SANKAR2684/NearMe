@@ -155,12 +155,11 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<../Screenshot 2024-11-25 205340.png>)
-![alt text](<../Screenshot 2024-11-25 211913.png>)
-![alt text](<../Screenshot 2024-11-25 211844.png>)
-![alt text](<../Screenshot 2024-11-25 211900.png>)
-![alt text](<../Screenshot 2024-11-25 211830.png>)
-![alt text](<../Screenshot 2024-11-25 211817.png>)
-
+![alt text](<Screenshot 2024-11-25 205340.png>)
+![alt text](<Screenshot 2024-11-25 211913.png>)
+![alt text](<Screenshot 2024-11-25 211844.png>)
+![alt text](<Screenshot 2024-11-25 211900.png>)
+![alt text](<Screenshot 2024-11-25 211830.png>)
+![alt text](<Screenshot 2024-11-25 211817.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
